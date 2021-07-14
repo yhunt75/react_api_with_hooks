@@ -1,0 +1,19 @@
+{
+  "name": "react_api_with_hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhunt75/react_api_with_hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhunt75/react_api_with_hooks/issues"
+  },
+  "homepage": "https://github.com/yhunt75/react_api_with_hooks#readme"
+}
